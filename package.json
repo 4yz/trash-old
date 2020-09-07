@@ -1,0 +1,21 @@
+{
+  "name": "kahootflooder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "kahoot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HideakiAtsuyo/KahootFlooder/"
+  },
+  "author": "HideakiAtsuyo",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "delay": "^4.4.0",
+    "kahoot.js-updated": "^1.4.27",
+    "readline-sync": "^1.4.10"
+  }
+}
